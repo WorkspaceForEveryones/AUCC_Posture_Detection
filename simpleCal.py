@@ -1,4 +1,4 @@
-a = int(input("a : "))
-b = int(input("b : "))
+firstNumber = int(input("first number : "))
+secondNumber = int(input("second number : "))
 
-print("a + b =", a + b)
+print("First number multiply by second number equal to", firstNumber * secondNumber)

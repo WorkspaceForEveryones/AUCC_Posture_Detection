@@ -16,8 +16,8 @@ def compare_coordinates(x_detected, y_detected, correct_coord_file):
         correct_coords = file.readlines()
 
     # แปลงข้อมูลจากไฟล์เป็นรายการของพิกัด x และ y
-    correct_x = [float(line.split()[0]) for line in correct_coords] #แปลงค่า x ที่อยู่ในไฟล์text 
-    correct_y = [float(line.split()[1]) for line in correct_coords] #แปลงค่า y ที่อยู่ในไฟล์text 
+    correct_x = [float(line.split()[0]) for line in correct_coords] #แปลงค่า x ที่อยู่ในไฟล์text
+    correct_y = [float(line.split()[1]) for line in correct_coords] #แปลงค่า y ที่อยู่ในไฟล์text
 
     # เปรียบเทียบข้อมูลที่ได้กับข้อมูลถูกต้อง
     diff_x = x_detected - np.array(correct_x)

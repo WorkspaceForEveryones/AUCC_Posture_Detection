@@ -1,5 +1,4 @@
 import mediapipe as mp
-import deepLabCut as dlc
 import openpose as op
 import numpy as np
 

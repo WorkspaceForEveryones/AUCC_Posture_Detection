@@ -1,5 +1,8 @@
 import matplotlib.pyplot as plt
 import os
+import keyboard
+import tkinter as tk
+
 
 class PointRecorder:
     def __init__(self, image_folder):

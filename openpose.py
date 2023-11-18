@@ -28,7 +28,7 @@ inHeight = args.height
 
 net = cv.dnn.readNetFromTensorflow("graph_opt.pb")
 
-cap = cv.VideoCapture(args.input if args.input else 0)
+cap = cv.VideoCapture("/Volumes/Mill/Mac_Mini/AUCC_Posture_Detection/new_dataset/new_image/frame_1700292172996.jpg")
 
 while cv.waitKey(1) < 0:
     hasFrame, frame = cap.read()
@@ -57,24 +57,24 @@ while cv.waitKey(1) < 0:
         x = (frameWidth * point[0]) / out.shape[3]
         y = (frameHeight * point[1]) / out.shape[2]
         # Add a point if it's confidence is higher than threshold.
-        points.append((int(x), int(y)) if conf > args.thr else None)
+        points.append((x, y))
 
-    for pair in POSE_PAIRS:
-        partFrom = pair[0]
-        partTo = pair[1]
-        assert(partFrom in BODY_PARTS)
-        assert(partTo in BODY_PARTS)
+    # for pair in POSE_PAIRS:
+    #     partFrom = pair[0]
+    #     partTo = pair[1]
+    #     assert(partFrom in BODY_PARTS)
+    #     assert(partTo in BODY_PARTS)
 
-        idFrom = BODY_PARTS[partFrom]
-        idTo = BODY_PARTS[partTo]
+    #     idFrom = BODY_PARTS[partFrom]
+    #     idTo = BODY_PARTS[partTo]
 
-        if points[idFrom] and points[idTo]:
-            cv.line(frame, points[idFrom], points[idTo], (0, 255, 0), 3)
-            cv.ellipse(frame, points[idFrom], (3, 3), 0, 0, 360, (0, 0, 255), cv.FILLED)
-            cv.ellipse(frame, points[idTo], (3, 3), 0, 0, 360, (0, 0, 255), cv.FILLED)
+    #     if points[idFrom] and points[idTo]:
+    #         cv.line(frame, points[idFrom], points[idTo], (0, 255, 0), 3)
+    #         cv.ellipse(frame, points[idFrom], (3, 3), 0, 0, 360, (0, 0, 255), cv.FILLED)
+    #         cv.ellipse(frame, points[idTo], (3, 3), 0, 0, 360, (0, 0, 255), cv.FILLED)
 
-    t, _ = net.getPerfProfile()
-    freq = cv.getTickFrequency() / 1000
-    cv.putText(frame, '%.2fms' % (t / freq), (10, 20), cv.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0))
+    # t, _ = net.getPerfProfile()
+    # freq = cv.getTickFrequency() / 1000
+    # cv.putText(frame, '%.2fms' % (t / freq), (10, 20), cv.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0))
 
-    cv.imshow('OpenPose using OpenCV', frame)
+    print(len(points))

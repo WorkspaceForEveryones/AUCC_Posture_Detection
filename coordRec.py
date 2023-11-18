@@ -4,6 +4,7 @@ import os
 class PointRecorder:
     def __init__(self, image_folder):
         self.image_folder = image_folder
+        self.image_paths = sorted([os.path.join(image_folder, filename) for filename in os.listdir(image_folder) if filename.endswith((".jpg", ".png"))])
         self.points_data = {}
         self.current_image = None
         self.counter = 0
@@ -12,7 +13,7 @@ class PointRecorder:
         self.current_image = image_path
         if self.current_image not in self.points_data:
             self.points_data[self.current_image] = []
-        self.fig, self.ax = plt.subplots()
+        self.fig, self.ax = plt.subplots(figsize=(12, 10))
         self.ax.imshow(plt.imread(image_path))
         self.cid = self.fig.canvas.mpl_connect('button_press_event', self.onclick)
 
@@ -34,7 +35,7 @@ class PointRecorder:
         plt.show()
 
 if __name__ == "__main__":
-    image_folder = 'postures'
+    image_folder = 'dada_image'
     output_file = 'output.txt'
 
     recorder = PointRecorder(image_folder)

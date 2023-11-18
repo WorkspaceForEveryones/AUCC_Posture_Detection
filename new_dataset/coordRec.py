@@ -35,8 +35,8 @@ class PointRecorder:
         plt.show()
 
 if __name__ == "__main__":
-    image_folder = 'dada_image'
-    output_file = 'correct_coord_file.txt'
+    image_folder = 'new_dataset/new_image'
+    output_file = 'new_dataset/correct_coord_file.txt'
 
     recorder = PointRecorder(image_folder)
 

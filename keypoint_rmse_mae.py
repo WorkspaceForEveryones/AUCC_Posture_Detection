@@ -2,6 +2,7 @@ import cv2
 import mediapipe as mp
 import math  
 import numpy as np  
+from sklearn.metrics import mean_absolute_error 
 
 def calculate_rmse(coord_set1, coord_set2):
     if len(coord_set1) != len(coord_set2):
@@ -18,15 +19,16 @@ def calculate_rmse(coord_set1, coord_set2):
 
     MSE = np.square(np.subtract(coord_set1,coord_set2)).mean()   
    
-    rsme = math.sqrt(MSE)  
+    rmse = math.sqrt(MSE)  
 
-    return rsme
+    return rmse
 
 
 correct = open("/Volumes/Mill/Mac_Mini/AUCC_Posture_Detection/new_dataset/correct_coord_file.txt", "r")
 predict = open("/Volumes/Mill/Mac_Mini/AUCC_Posture_Detection/new_dataset/predict_coord_file.txt", "r")
 # Example usage:
 rmse_value = 0
+mae_value = 0
 for i in correct:
     coord1 = [float(x) for x in i.split(',')]
     coordinates1 = []
@@ -39,7 +41,9 @@ for i in correct:
         coordinates2.append([coord2[i*2], coord2[i*2 + 1]])
 
     rmse_value = (rmse_value + calculate_rmse(coord1, coord2)) / 2
+    mae_value = (mae_value + mean_absolute_error(coord1, coord2)) / 2
 
 
 print(f"RMSE: {rmse_value}")
+print(f"MAE: {mae_value}")
 

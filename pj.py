@@ -2,7 +2,7 @@ import cv2
 import time
 import PoseModule as pm
 
-cap = cv2.VideoCapture('demo2.mp4')
+cap = cv2.VideoCapture('/Volumes/Mill/Mac_Mini/AUCC_Posture_Detection/new_dataset/new_image/frame_1700292172996.jpg')
 pTime = 0
 detector = pm.poseDetector()
 

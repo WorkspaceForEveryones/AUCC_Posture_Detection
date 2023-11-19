@@ -4,8 +4,10 @@ import math
 import numpy as np  
 from sklearn.metrics import mean_absolute_error 
 
-correct = open("/Volumes/Mill/Mac_Mini/AUCC_Posture_Detection/new_dataset/labels.txt", "r")
-predict = open("/Volumes/Mill/Mac_Mini/AUCC_Posture_Detection/new_dataset/predict_posture.txt", "r")
+# correct = open("./new_dataset/new_labels.txt", "r")
+# predict = open("./new_dataset/predict_postures.txt", "r")
+correct = open("./dada_dataset/dada_labels.txt", "r")
+predict = open("./dada_dataset/predict_postures.txt", "r")
 # Example usage:
 rmse_value = 0
 mae_value = 0

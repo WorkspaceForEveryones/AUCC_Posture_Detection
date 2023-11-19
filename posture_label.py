@@ -8,7 +8,7 @@ class ImageLabelingApp:
         self.root = root
         self.root.title("Image Labeling App")
 
-        self.image_folder = "/Volumes/Mill/Mac_Mini/AUCC_Posture_Detection/new_dataset/new_image"
+        self.image_folder = "./dada_dataset/dada_image"
 
         self.image_list = sorted([f for f in os.listdir(self.image_folder) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.bmp'))])
         self.current_index = 0
@@ -30,7 +30,7 @@ class ImageLabelingApp:
     def load_image(self):
         image_path = os.path.join(self.image_folder, self.image_list[self.current_index])
         img = Image.open(image_path)
-        img = img.resize((300, 300))  # Use ANTIALIAS here
+        img = img.resize((300, 450))  # Use ANTIALIAS here
         photo = ImageTk.PhotoImage(img)
         self.image_label.config(image=photo)
         self.image_label.image = photo

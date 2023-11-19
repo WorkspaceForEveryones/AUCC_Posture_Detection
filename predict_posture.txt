@@ -1,0 +1,930 @@
+Image Path: new_dataset/new_image\frame_1700292172996.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173040.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173072.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173100.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173130.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173156.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173182.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173209.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173236.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173263.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173291.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173319.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173348.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173378.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173405.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173435.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173465.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173495.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173525.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173556.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173586.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173614.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173643.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173672.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173701.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173730.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173760.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173790.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173818.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173846.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173873.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173900.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173927.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173955.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292173982.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174008.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174034.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174058.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174085.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174111.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174137.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174164.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174190.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174216.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174242.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174269.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174297.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174326.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174355.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174384.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174413.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174441.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174471.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174500.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174530.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174559.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174590.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174619.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174645.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174673.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174702.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174732.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174761.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174791.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174821.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174851.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174882.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174911.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174940.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174969.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292174998.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175029.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175059.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175087.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175118.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175147.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175176.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175205.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175235.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175265.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175295.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175326.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175358.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175389.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175420.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175449.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175480.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175510.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175542.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175573.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175604.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175635.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175665.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175695.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175724.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175754.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175784.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175815.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175846.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175876.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175906.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175933.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175959.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292175986.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176012.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176039.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176066.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176094.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176122.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176150.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176178.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176205.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176233.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176261.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176291.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176321.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176350.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176380.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176409.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176440.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176470.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176501.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176532.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176561.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176588.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176616.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176671.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176699.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176725.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176754.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176782.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176812.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176841.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176871.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176902.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176933.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176964.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292176995.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177026.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177057.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177089.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177119.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177150.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177181.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177213.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177244.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177275.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177367.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177461.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177492.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177523.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177553.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177584.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177615.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+
+Image Path: new_dataset/new_image\frame_1700292177646.jpg
+Width: 720 pixels
+Height: 1280 pixels
+Mode: RGB
+Format: JPEG
+

@@ -33,7 +33,7 @@ for i in correct:
     coord1 = [float(x) for x in i.split(',')]
     coordinates1 = []
     for j in range(math.floor(len(coord1) / 4)):
-        coordinates1.append([coord1[j*2], coord1[j*2 + 1]])
+        coordinates1.append([coord1[j*2], coord1[j*2 + 1]] )
 
     coord2 = [float(x) for x in predict.readline().split(',')]
     coordinates2 = []
